@@ -1,0 +1,48 @@
+body {
+    background-color:black;
+
+}
+
+#container {
+    background-color:rgb(10, 10, 57);
+    border: 5px solid white;
+    height: 275px;
+    width: 750px;
+    margin:0 auto;
+    text-align: center;
+    
+
+}
+p{
+    color:silver;
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+
+h1{
+    color:silver;
+    font-family: sans-serif;
+    font-size: 50px;
+
+}
+
+label {
+    color:silver;
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+
+
+
+input {
+    width: 200px;
+    margin:40px auto;
+    font-size: 25px;
+
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}
